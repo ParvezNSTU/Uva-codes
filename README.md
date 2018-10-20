@@ -1,2 +1,2 @@
 # Uva-codes
-codes that i solved in uva
+codes that I have solved in uva
